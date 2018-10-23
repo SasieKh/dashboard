@@ -1,5 +1,7 @@
 
 module.exports = {
+    themeConfig: {
+    },
     port: 8081,
     markdown: {
         toc: {
