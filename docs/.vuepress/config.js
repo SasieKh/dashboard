@@ -1,7 +1,6 @@
 
 module.exports = {
-    themeConfig: {
-    },
+    base: "/dashboard/",
     port: 8081,
     markdown: {
         toc: {
