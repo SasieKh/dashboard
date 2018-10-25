@@ -6,4 +6,6 @@ navbar: false
 
 Stay tuned for more!
 
-![jSparrow](/logo.png)
+New News.
+
+![jSparrow](/dashboard/logo.png)
